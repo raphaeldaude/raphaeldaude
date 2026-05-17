@@ -21,17 +21,17 @@ Looking for a 6-month gap-year internship in economic analysis, market research,
 
 ## 📁 Featured Projects
 
-### [Master's Thesis: Fossil Fuels vs. Renewables](./)
+### Master's Thesis: Fossil Fuels vs. Renewables
 *An analysis of the structural complementarity between coal and renewable energy in the power sectors of China and India.*
 - **Keywords:** Energy economics, Grid flexibility, Public policy.
 - **Paper:** Available in my repositories.
 
-### 📈 [Time Series Analysis: Steel Costs & Vehicle Prices](https://bit.ly/4qjtZlH)
+### 📈 Time Series Analysis: Steel Costs & Vehicle Prices
 *Econometric modeling of the impact of steel costs on US new vehicle prices (1981-2024).*
 - **Ranked 1st out of 60 students.**
 - **Tools:** Stata / R.
 
-### ⚽ [Statistical Study: Age and Football Performance](https://bit.ly/49JVnEJ)
+### ⚽ Statistical Study: Age and Football Performance
 *Econometric analysis under R exploring the relationship between player age and performance metrics.*
 - **Ranked 3rd out of 200.**
 
