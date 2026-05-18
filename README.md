@@ -37,6 +37,6 @@ Looking for a 6-month gap-year internship in economic analysis, market research,
 
 ---
 
-## 📫 Connect with me
-- 💼 **LinkedIn:** [Raphaël Daudé](https://www.linkedin.com/in/raphaël-daudé-9b6982348)
-- 📧 **Email:** [raphael.daude@dauphine.eu](mailto:raphael.daude@dauphine.eu)
+## Connect with me
+- **LinkedIn:** [Raphaël Daudé](https://www.linkedin.com/in/raphaël-daudé-9b6982348)
+- **Email:** [raphael.daude@dauphine.eu](mailto:raphael.daude@dauphine.eu)
