@@ -6,9 +6,9 @@ Looking for a 6-month gap-year internship in economic analysis, market research,
 ---
 
 ## About Me
-- 📊 **Interests:** Quantitative Finance, Energy Economics, Climate Transition & Macroeconomic Policy.
-- 🎹 **Outside of Economics:** Classical & Jazz Pianist (Dauphine "Talents Piano" program).
-- 🗣️ **Languages:** French (Native), English (C1), Chinese (Intermediate).
+- **Interests:** Quantitative Finance, Energy Economics, Climate Transition & Macroeconomic Policy.
+- **Outside of Economics:** Classical & Jazz Pianist (Dauphine "Talents Piano" program).
+- **Languages:** French (Native), English (C1), Chinese (Intermediate).
 
 ---
 
